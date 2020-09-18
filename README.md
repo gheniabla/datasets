@@ -2,7 +2,7 @@
 
 ##Stock datasets
 
-The datasets oroginally located at the following locations: 
+The datasets are originally located at the following locations: 
 
 dataset-1: https://old.nasdaq.com/screening/companies-by-industry.aspx?exchange=NASDAQ&render=download
 
