@@ -1,0 +1,26 @@
+ID,Name,Department,Salary,Manager_ID
+1,John Smith,Executive,250000,
+2,Sarah Johnson,HR,120000,1
+3,Michael Brown,Engineering,150000,1
+4,Emily Davis,Finance,130000,1
+5,David Wilson,Sales,110000,1
+6,Jennifer Martinez,HR,85000,2
+7,Robert Taylor,HR,78000,2
+8,Lisa Anderson,Engineering,125000,3
+9,James Thomas,Engineering,115000,3
+10,Maria Garcia,Engineering,105000,3
+11,William Rodriguez,Engineering,98000,3
+12,Jessica Lee,Finance,95000,4
+13,Christopher White,Finance,88000,4
+14,Amanda Harris,Finance,82000,4
+15,Daniel Clark,Sales,95000,5
+16,Michelle Lewis,Sales,89000,5
+17,Kevin Walker,Sales,86000,5
+18,Ashley Hall,Sales,83000,5
+19,Matthew Allen,Engineering,92000,8
+20,Nicole Young,Engineering,88000,8
+21,Andrew King,HR,72000,6
+22,Stephanie Wright,Finance,75000,12
+23,Joshua Lopez,Sales,78000,15
+24,Rebecca Hill,Engineering,85000,10
+25,Brandon Scott,Sales,80000,16

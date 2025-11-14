@@ -1,0 +1,189 @@
+{
+  "company": "Tech Solutions Inc",
+  "ceo": {
+    "id": 1,
+    "name": "John Smith",
+    "title": "CEO",
+    "department": "Executive",
+    "reports": [
+      {
+        "id": 2,
+        "name": "Sarah Johnson",
+        "title": "VP of Human Resources",
+        "department": "HR",
+        "reports": [
+          {
+            "id": 6,
+            "name": "Jennifer Martinez",
+            "title": "HR Manager",
+            "department": "HR",
+            "reports": [
+              {
+                "id": 21,
+                "name": "Andrew King",
+                "title": "HR Specialist",
+                "department": "HR",
+                "reports": []
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Robert Taylor",
+            "title": "Recruitment Manager",
+            "department": "HR",
+            "reports": []
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Michael Brown",
+        "title": "VP of Engineering",
+        "department": "Engineering",
+        "reports": [
+          {
+            "id": 8,
+            "name": "Lisa Anderson",
+            "title": "Engineering Manager",
+            "department": "Engineering",
+            "reports": [
+              {
+                "id": 19,
+                "name": "Matthew Allen",
+                "title": "Senior Engineer",
+                "department": "Engineering",
+                "reports": []
+              },
+              {
+                "id": 20,
+                "name": "Nicole Young",
+                "title": "Senior Engineer",
+                "department": "Engineering",
+                "reports": []
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "James Thomas",
+            "title": "Engineering Manager",
+            "department": "Engineering",
+            "reports": []
+          },
+          {
+            "id": 10,
+            "name": "Maria Garcia",
+            "title": "Engineering Manager",
+            "department": "Engineering",
+            "reports": [
+              {
+                "id": 24,
+                "name": "Rebecca Hill",
+                "title": "Software Engineer",
+                "department": "Engineering",
+                "reports": []
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "William Rodriguez",
+            "title": "Senior Engineer",
+            "department": "Engineering",
+            "reports": []
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Emily Davis",
+        "title": "VP of Finance",
+        "department": "Finance",
+        "reports": [
+          {
+            "id": 12,
+            "name": "Jessica Lee",
+            "title": "Finance Manager",
+            "department": "Finance",
+            "reports": [
+              {
+                "id": 22,
+                "name": "Stephanie Wright",
+                "title": "Financial Analyst",
+                "department": "Finance",
+                "reports": []
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Christopher White",
+            "title": "Accounting Manager",
+            "department": "Finance",
+            "reports": []
+          },
+          {
+            "id": 14,
+            "name": "Amanda Harris",
+            "title": "Budget Analyst",
+            "department": "Finance",
+            "reports": []
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "David Wilson",
+        "title": "VP of Sales",
+        "department": "Sales",
+        "reports": [
+          {
+            "id": 15,
+            "name": "Daniel Clark",
+            "title": "Sales Manager",
+            "department": "Sales",
+            "reports": [
+              {
+                "id": 23,
+                "name": "Joshua Lopez",
+                "title": "Sales Representative",
+                "department": "Sales",
+                "reports": []
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Michelle Lewis",
+            "title": "Sales Manager",
+            "department": "Sales",
+            "reports": [
+              {
+                "id": 25,
+                "name": "Brandon Scott",
+                "title": "Sales Representative",
+                "department": "Sales",
+                "reports": []
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Kevin Walker",
+            "title": "Sales Manager",
+            "department": "Sales",
+            "reports": []
+          },
+          {
+            "id": 18,
+            "name": "Ashley Hall",
+            "title": "Account Manager",
+            "department": "Sales",
+            "reports": []
+          }
+        ]
+      }
+    ]
+  }
+}
