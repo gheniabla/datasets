@@ -1,0 +1,40 @@
+# City Network - Alternative test data for graphs
+# Format: city1 city2 distance_in_miles
+# This represents a simplified transportation network
+NewYork Boston 215
+NewYork Philadelphia 95
+NewYork Washington 225
+Boston Portland 105
+Boston Albany 170
+Philadelphia Pittsburgh 305
+Philadelphia Baltimore 105
+Washington Baltimore 40
+Washington Richmond 110
+Baltimore Pittsburgh 247
+Albany Syracuse 145
+Albany NewYork 150
+Syracuse Buffalo 150
+Syracuse Rochester 85
+Buffalo Rochester 75
+Buffalo Cleveland 190
+Pittsburgh Cleveland 135
+Pittsburgh Columbus 185
+Cleveland Columbus 140
+Cleveland Detroit 170
+Columbus Cincinnati 100
+Columbus Indianapolis 175
+Cincinnati Louisville 100
+Cincinnati Indianapolis 110
+Louisville Nashville 175
+Louisville StLouis 260
+Indianapolis Chicago 185
+Indianapolis StLouis 240
+Detroit Chicago 280
+Detroit Toronto 235
+Chicago Milwaukee 90
+Chicago StLouis 300
+Milwaukee Minneapolis 340
+StLouis KansasCity 250
+Minneapolis DesMoines 245
+DesMoines KansasCity 195
+DesMoines Chicago 330
